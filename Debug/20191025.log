@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\pyh1343122828\desktop\日常文件\考研相关\答案\20191025\20191025\main.cpp(76): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“Elem”
+c:\users\pyh1343122828\desktop\日常文件\考研相关\答案\20191025\20191025\main.cpp(92): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“<unnamed-type-elem> *”
+  20191025.vcxproj -> C:\Users\pyh1343122828\Desktop\日常文件\考研相关\答案\20191025\Debug\20191025.exe
+  20191025.vcxproj -> C:\Users\pyh1343122828\Desktop\日常文件\考研相关\答案\20191025\Debug\20191025.pdb (Partial PDB)
